@@ -12,4 +12,4 @@ def rollDice():
          print(f"Dice 2:{randint(1,6)}")
          print("\n")
          i+=1
-rollDice()        
+rollDice()
