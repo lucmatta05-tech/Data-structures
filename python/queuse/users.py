@@ -182,7 +182,8 @@ while True:
                 print("Identification Number not found")
 
             key = input("Press any key to back to main menu: ")
-        
+        Search user by Id 
+        if user doen
         case '8':
             any_key=input("bye bye. press any key... ")
             break
